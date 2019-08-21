@@ -26,3 +26,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+#Tutorial
+
+This project was programmed with angular4 which have some deprecated components. If you already have installed some version of Angular CLI, please consult the package.json to see all the components and their versions to resolve your problems.
